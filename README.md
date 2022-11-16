@@ -14,7 +14,7 @@
 ##### 6. Vipin Barode (fw18_0303) https://github.com/vipinbrd
 
 # Link
-##### https://myntraunit3.netlify.app/
+##### https://incomparable-druid-705f22.netlify.app/
 
 # Pages Build
 ##### 1. Landing Pages
